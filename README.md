@@ -2,4 +2,4 @@
 
 ## Vai tas ir md?
 ### Jap. ir!
-#* Sapratu!!!
+#### Sapratu!!!
